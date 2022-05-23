@@ -12,7 +12,7 @@ Hi There,
 
 I am a student from Hack React and through the partnership program I found this opportunity. Here is my code.
 
-Sorry I saw this opportuniy just a day before and did not had a chance to do all the code clean up and add comments,
+Sorry I saw this opportuniy just a day before and did not had a chance to do all the code clean up and add comments.
 
 Thanks a lot for the opportunity and hopefully hear great news from you!
 
