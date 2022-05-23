@@ -8,6 +8,9 @@
 - [ ] `npm run serve` to compile the client bundle
 - [ ] `npm run start` to start the local server
 
+## Choice of feature:
+When deleting, allow deletion comments and undeletion
+
 Hi There, 
 
 I am a student from Hack React and through the partnership program I found this opportunity. Here is my code.
