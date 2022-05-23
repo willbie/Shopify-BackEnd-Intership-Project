@@ -1,0 +1,32 @@
+{
+  "name": "shopify-intern",
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(css|scss)$": "identity-obj-proxy"
+    }
+  },
+  "version": "1.0.0",
+  "description": "Coding challenge for shopify intership",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack --mode development --watch",
+    "start": "npx nodemon server/index.js"
+  },
+  "author": "Houheng li",
+  "license": "ISC",
+  "dependencies": {
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "Babel": "^0.0.1",
+    "babel-loader": "^8.2.5",
+    "babel-preset-react-app": "^10.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "react": "^18.1.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
