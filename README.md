@@ -11,6 +11,7 @@
 ## Choice of feature:
 When deleting, allow deletion comments and undeletion
 
+## Others
 Hi There, 
 
 I am a student from Hack React and through the partnership program I found this opportunity. Here is my code.
